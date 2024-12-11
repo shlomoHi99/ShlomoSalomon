@@ -14,7 +14,7 @@ I'm a passionate **Full-Stack Developer** specializing in **React.js** and **Nod
 
 ## 📫 Get in Touch
 - 📧 **Email**: [shlomisal99@gmail.com](mailto:shlomisal99@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/shlomo-salomon](#)
+- 💼 **LinkedIn**: [linkedin.com/in/shlomo-salomon](https://www.linkedin.com/in/shlomo-salomon/)
 - 🐙 **GitHub**: [github.com/shlomoHi99](#)
 
 ---
