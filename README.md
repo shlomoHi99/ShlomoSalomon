@@ -12,22 +12,10 @@ I'm a passionate **Full-Stack Developer** specializing in **React.js** and **Nod
 
 ---
 
-## 🚀 Featured Projects
-### **[Workforce Management Tool](#)**
-A workforce management solution built with **React.js**, **NestJS**, and **MongoDB**, improving operational efficiency in a high-demand environment. 
-
-### **[E-commerce Platform](#)**
-An end-to-end e-commerce site using **React**, **Node.js**, and **MongoDB**, featuring payment gateway integration and a modern, responsive design.
-
-### **[Task Manager API](#)**
-A secure RESTful API built with **NestJS**, enabling CRUD operations with user authentication and role-based permissions.
-
----
-
 ## 📫 Get in Touch
 - 📧 **Email**: [shlomisal99@gmail.com](mailto:shlomisal99@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](#)
-- 🐙 **GitHub**: [github.com/yourusername](#)
+- 💼 **LinkedIn**: [linkedin.com/in/shlomo-salomon](#)
+- 🐙 **GitHub**: [github.com/shlomoHi99](#)
 
 ---
 
