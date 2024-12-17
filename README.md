@@ -4,8 +4,8 @@
 I'm a passionate **Full-Stack Developer** specializing in **React.js** and **Node.js**, with 3 years of hands-on experience in the prestigious 8200 Unit of the IDF. I love building scalable, efficient, and impactful solutions, from intuitive frontend interfaces to robust backend systems.
 
 - 🌐 **Languages**: JavaScript (ES6+), TypeScript, Java, C
-- 🛠️ **Frontend**: React.js, Angular, HTML, CSS, React Query
 - ⚙️ **Backend**: Node.js, NestJS, MongoDB, MSSQL
+- 🛠️ **Frontend**: React.js, Angular, HTML, CSS, React Query
 - 🧰 **Tools & Frameworks**: REST APIs, GraphQL, OpenShift, Git, Postman
 
 💡 I’m constantly exploring new technologies and enhancing my problem-solving skills.
